@@ -8,7 +8,7 @@ a mod of the "default_config" integration for Home Assistant, minus the "Cloud" 
 mkdir -p /config/custom_components/default_config_nocloud
 cd /config/custom_components/default_config_nocloud
 wget https://raw.githubusercontent.com/Kupie/homeassistant_default_config_NoCloud/main/__init__.py
-wget https://raw.githubusercontent.com/Kupie/homeassistant_default_config_NoCloud/main/__init__.py
+wget https://raw.githubusercontent.com/Kupie/homeassistant_default_config_NoCloud/main/manifest.json
 ```
 
 #### Modify configuration.yaml to have "default_config_nocloud:" instead of "default_config:" like so:
