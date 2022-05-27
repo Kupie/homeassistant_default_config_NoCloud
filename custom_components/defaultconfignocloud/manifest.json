@@ -3,7 +3,6 @@
   "name": "Default Config NoCloud Mod",
   "documentation": "https://github.com/Kupie/homeassistant_default_config_NoCloud",
   "dependencies": [
-    "application_credentials",
     "automation",
     "counter",
     "dhcp",
@@ -36,5 +35,5 @@
     "zone"
   ],
   "codeowners": [],
-  "version": "0.2"
+  "version": "0.2.1"
 }
