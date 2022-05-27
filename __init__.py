@@ -1,5 +1,3 @@
-"""Component providing default configuration for new users but modified to not have cloud"""
-
 try:
     import av
 except ImportError:
