@@ -1,6 +1,7 @@
 # homeassistant_default_config_NoCloud
 a mod of the "default_config" integration for Home Assistant, minus the "Cloud" portion
 
+# CURRENTLY NOT WORKING, DO NOT USE
 ## Installation:
 
 #### wget the files after SSH-ing into your home assistant container and put them into <config_dir>/custom_components/default_config_nocloud:
