@@ -2,7 +2,8 @@
   "domain": "defaultconfignocloud",
   "name": "Default Config NoCloud Mod",
   "documentation": "https://github.com/Kupie/homeassistant_default_config_NoCloud",
-  "dependencies": [
+  "after_dependencies": [
+    "application_credentials",
     "automation",
     "counter",
     "dhcp",
