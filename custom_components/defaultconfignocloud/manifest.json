@@ -34,6 +34,6 @@
     "zeroconf",
     "zone"
   ],
-  "codeowners": [],
+  "codeowners": ["@Kupie"],
   "version": "0.2.1"
 }
